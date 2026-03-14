@@ -1,0 +1,423 @@
+{
+  "TN_CHN_001": {
+    "name": "Chennai",
+    "cities": [
+      "Chennai",
+      "Tambaram",
+      "Chengalpattu",
+      "Avadi",
+      "Ambattur"
+    ],
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "population": 7200000
+  },
+  "TN_MDU_001": {
+    "name": "Madurai",
+    "cities": [
+      "Madurai",
+      "Melur",
+      "Tirumangalam",
+      "Usilampatti"
+    ],
+    "latitude": 9.9252,
+    "longitude": 78.1198,
+    "population": 3100000
+  },
+  "TN_CBE_001": {
+    "name": "Coimbatore",
+    "cities": [
+      "Coimbatore",
+      "Pollachi",
+      "Mettupalayam"
+    ],
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "population": 3470000
+  },
+  "TN_SLM_001": {
+    "name": "Salem",
+    "cities": [
+      "Salem",
+      "Mettur",
+      "Omalur"
+    ],
+    "latitude": 11.6643,
+    "longitude": 78.146,
+    "population": 3480000
+  },
+  "TN_TIR_001": {
+    "name": "Tiruchirappalli",
+    "cities": [
+      "Tiruchirappalli",
+      "Thuvakudi",
+      "Manapparai"
+    ],
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "population": 3100000
+  },
+  "TN_TNV_001": {
+    "name": "Tirunelveli",
+    "cities": [
+      "Tirunelveli",
+      "Palayamkottai",
+      "Sankarankovil"
+    ],
+    "latitude": 8.7139,
+    "longitude": 77.7568,
+    "population": 3400000
+  },
+  "TN_TNK_001": {
+    "name": "Thanjavur",
+    "cities": [
+      "Thanjavur",
+      "Kumbakonam",
+      "Pattukkottai"
+    ],
+    "latitude": 10.7799,
+    "longitude": 79.1315,
+    "population": 2800000
+  },
+  "TN_ERD_001": {
+    "name": "Erode",
+    "cities": [
+      "Erode",
+      "Bhavani",
+      "Gobichettipalayam"
+    ],
+    "latitude": 11.341,
+    "longitude": 77.7155,
+    "population": 2700000
+  },
+  "TN_VRI_001": {
+    "name": "Virudhunagar",
+    "cities": [
+      "Virudhunagar",
+      "Rajapalayam",
+      "Srivilliputhur"
+    ],
+    "latitude": 9.5836,
+    "longitude": 77.9624,
+    "population": 2200000
+  },
+  "TN_TUT_001": {
+    "name": "Thoothukudi",
+    "cities": [
+      "Thoothukudi",
+      "Kovilpatti",
+      "Tiruchendur"
+    ],
+    "latitude": 8.8057,
+    "longitude": 78.1348,
+    "population": 2100000
+  },
+  "TN_VPM_001": {
+    "name": "Viluppuram",
+    "cities": [
+      "Viluppuram",
+      "Tindivanam",
+      "Gingee"
+    ],
+    "latitude": 11.9398,
+    "longitude": 79.4305,
+    "population": 4200000
+  },
+  "TN_KNY_001": {
+    "name": "Kanyakumari",
+    "cities": [
+      "Nagercoil",
+      "Kanyakumari",
+      "Padmanabhapuram"
+    ],
+    "latitude": 8.0883,
+    "longitude": 77.5399,
+    "population": 2000000
+  },
+  "TN_NLK_001": {
+    "name": "Nilgiris",
+    "cities": [
+      "Udhagamandalam",
+      "Coonoor",
+      "Kotagiri"
+    ],
+    "latitude": 11.4113,
+    "longitude": 76.6962,
+    "population": 800000
+  },
+  "TN_VLR_001": {
+    "name": "Vellore",
+    "cities": [
+      "Vellore",
+      "Arcot",
+      "Gudiyattam"
+    ],
+    "latitude": 12.9165,
+    "longitude": 79.1325,
+    "population": 2100000
+  },
+  "TN_KPM_001": {
+    "name": "Kancheepuram",
+    "cities": [
+      "Kancheepuram",
+      "Sriperumbudur",
+      "Uthiramerur"
+    ],
+    "latitude": 12.8412,
+    "longitude": 79.7658,
+    "population": 2400000
+  },
+  "TN_TVR_001": {
+    "name": "Thiruvallur",
+    "cities": [
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee"
+    ],
+    "latitude": 13.1423,
+    "longitude": 80.1307,
+    "population": 4000000
+  },
+  "TN_DGL_001": {
+    "name": "Dindigul",
+    "cities": [
+      "Dindigul",
+      "Palani",
+      "Kodaikanal"
+    ],
+    "latitude": 10.3667,
+    "longitude": 77.9833,
+    "population": 2700000
+  },
+  "TN_KRR_001": {
+    "name": "Karur",
+    "cities": [
+      "Karur",
+      "Kulithalai",
+      "Pugalur"
+    ],
+    "latitude": 10.958,
+    "longitude": 78.0784,
+    "population": 1400000
+  },
+  "TN_PDK_001": {
+    "name": "Pudukkottai",
+    "cities": [
+      "Pudukkottai",
+      "Aranthangdi",
+      "Keeranur"
+    ],
+    "latitude": 10.5207,
+    "longitude": 78.8212,
+    "population": 1700000
+  },
+  "TN_TNI_001": {
+    "name": "Theni",
+    "cities": [
+      "Theni",
+      "Bodinayakanur",
+      "Cumbum"
+    ],
+    "latitude": 9.9766,
+    "longitude": 77.4774,
+    "population": 1500000
+  },
+  "TN_RAM_001": {
+    "name": "Ramanathapuram",
+    "cities": [
+      "Ramanathapuram",
+      "Paramakudi",
+      "Rameswaram"
+    ],
+    "latitude": 9.3595,
+    "longitude": 78.9289,
+    "population": 1600000
+  },
+  "TN_SGV_001": {
+    "name": "Sivaganga",
+    "cities": [
+      "Sivaganga",
+      "Karaikudi",
+      "Manamadurai"
+    ],
+    "latitude": 10.0824,
+    "longitude": 78.5582,
+    "population": 1600000
+  },
+  "TN_PRL_001": {
+    "name": "Perambalur",
+    "cities": [
+      "Perambalur",
+      "Kunnam",
+      "Veppanthattai"
+    ],
+    "latitude": 11.1156,
+    "longitude": 79.0741,
+    "population": 600000
+  },
+  "TN_ARL_001": {
+    "name": "Ariyalur",
+    "cities": [
+      "Ariyalur",
+      "Andimadam",
+      "Sendurai"
+    ],
+    "latitude": 11.1033,
+    "longitude": 79.2083,
+    "population": 800000
+  },
+  "TN_NGK_001": {
+    "name": "Nagapattinam",
+    "cities": [
+      "Nagapattinam",
+      "Vedaranyam",
+      "Thiruthuraipoondi"
+    ],
+    "latitude": 10.7905,
+    "longitude": 79.8426,
+    "population": 1800000
+  },
+  "TN_TAR_001": {
+    "name": "Thiruvarur",
+    "cities": [
+      "Thiruvarur",
+      "Mannargudi",
+      "Needamangalam"
+    ],
+    "latitude": 10.7459,
+    "longitude": 79.6374,
+    "population": 1400000
+  },
+  "TN_NMK_001": {
+    "name": "Namakkal",
+    "cities": [
+      "Namakkal",
+      "Rasipuram",
+      "Tiruchengode"
+    ],
+    "latitude": 11.2234,
+    "longitude": 78.1651,
+    "population": 1900000
+  },
+  "TN_DMP_001": {
+    "name": "Dharmapuri",
+    "cities": [
+      "Dharmapuri",
+      "Palacode",
+      "Pennagaram"
+    ],
+    "latitude": 12.1309,
+    "longitude": 78.1564,
+    "population": 2000000
+  },
+  "TN_KRG_001": {
+    "name": "Krishnagiri",
+    "cities": [
+      "Krishnagiri",
+      "Hosur",
+      "Denkanikottai"
+    ],
+    "latitude": 12.5318,
+    "longitude": 78.2087,
+    "population": 2200000
+  },
+  "TN_TPT_001": {
+    "name": "Tirupathur",
+    "cities": [
+      "Tirupathur",
+      "Jolarpet",
+      "Natrampalli"
+    ],
+    "latitude": 12.491,
+    "longitude": 78.5667,
+    "population": 1700000
+  },
+  "TN_RNT_001": {
+    "name": "Ranipet",
+    "cities": [
+      "Ranipet",
+      "Arcot",
+      "Walajapet"
+    ],
+    "latitude": 12.9605,
+    "longitude": 79.3325,
+    "population": 2000000
+  },
+  "TN_KLC_001": {
+    "name": "Kallakurichi",
+    "cities": [
+      "Kallakurichi",
+      "Chinnasalem",
+      "Sankarapuram"
+    ],
+    "latitude": 11.4255,
+    "longitude": 78.9651,
+    "population": 2000000
+  },
+  "TN_MLD_001": {
+    "name": "Mayiladuthurai",
+    "cities": [
+      "Mayiladuthurai",
+      "Kuthalam",
+      "Thirukkuvalai"
+    ],
+    "latitude": 11.0921,
+    "longitude": 79.6505,
+    "population": 1900000
+  },
+  "TN_TNK_002": {
+    "name": "Tenkasi",
+    "cities": [
+      "Tenkasi",
+      "Sankarankovil",
+      "Kadayanallur"
+    ],
+    "latitude": 8.9531,
+    "longitude": 77.3143,
+    "population": 1800000
+  },
+  "TN_TUP_001": {
+    "name": "Tiruppur",
+    "cities": [
+      "Tiruppur",
+      "Avinashi",
+      "Dharapuram"
+    ],
+    "latitude": 11.1085,
+    "longitude": 77.3327,
+    "population": 3100000
+  },
+  "TN_TVM_001": {
+    "name": "Tiruvannamalai",
+    "cities": [
+      "Tiruvannamalai",
+      "Arani",
+      "Chetpet"
+    ],
+    "latitude": 12.2269,
+    "longitude": 79.0651,
+    "population": 2400000
+  },
+  "TN_CDL_001": {
+    "name": "Cuddalore",
+    "cities": [
+      "Cuddalore",
+      "Chidambaram",
+      "Panruti"
+    ],
+    "latitude": 11.7483,
+    "longitude": 79.7667,
+    "population": 2800000
+  },
+  "TN_CPT_001": {
+    "name": "Chengalpattu",
+    "cities": [
+      "Chengalpattu",
+      "Maduranthakam",
+      "Saint Thomas Mount"
+    ],
+    "latitude": 12.6817,
+    "longitude": 80.1252,
+    "population": 2500000
+  }
+}
